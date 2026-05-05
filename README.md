@@ -86,6 +86,7 @@ sysguard/
 | grep | Pattern filtering |
 | sort | Sorting output |
 | last | Display login history |
+| who | Display active sessions |
 
 
 ---
