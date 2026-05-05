@@ -56,3 +56,10 @@ sysguard/
 ├── logs/
 │
 └── README.md
+
+#Technologies Used
+Bash Scripting
+Linux Utilities
+Process Management
+Linux Networking Tools
+System Monitoring Commands
