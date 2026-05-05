@@ -20,6 +20,8 @@ do
 
    case $choice in 
 	   1)
+		   echo "===== SUCCESFUL LOGIN ATTEMPTS ====="
+
 		   # Shows the last 10 successful logins
 		  last -n 10
 		  ;;
@@ -32,7 +34,8 @@ do
 
 		    3)
 		    echo "===== CURRENTLY ACTIVE USERS ====="
-    last | grep "still logged in"
+    echo -e "\n--- Active sessions(who): ---"
+        who
     ;;
 
     4)
