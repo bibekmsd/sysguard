@@ -9,7 +9,7 @@ do
 	 echo "=============================="
     echo "SYSTEM AUDIT "
     echo "=============================="
-    echo "1. Recent Successfull Logins"
+    echo "1. Recent Successful Logins"
     echo "2. Recent Failed logins"
     echo "3. Currently active users"
     echo "4. World Writeable files"

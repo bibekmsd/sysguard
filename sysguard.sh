@@ -5,6 +5,7 @@ source modules/process.sh
 source modules/network.sh
 source modules/cleanup.sh
 source modules/security.sh
+source modules/services.sh
 
 while true 
 do
@@ -17,7 +18,8 @@ do
     echo "3. Network Connections"
     echo "4. Cleanup Junk Files"
     echo "5. Security Audit"
-    echo "6. Exit"
+      echo "6. Service Health Monitor"
+    echo "7. Exit"
     echo "=============================="
 
     read -p "Choose an option:" choice
@@ -39,7 +41,12 @@ do
         5)
             security_audit
             ;;
-        6)
+
+            6)system_health_monitor
+            ;;
+
+        7)
+
 		echo "Goodbye!"
 		exit 
 		;;
