@@ -157,7 +157,19 @@ This project was created to improve:
 ## 4.Cleanup Utility
 ![Cleanup Utility Preview](https://github.com/user-attachments/assets/3078a4fe-251d-4762-912e-d261e18f62b7)
 
+## 5. Security Audit
 
+### 5.1 Recent Successful Logins
+![Successful Login History Audit](https://github.com/user-attachments/assets/cf746405-0769-42ac-bddf-208a2ed7be05) 
+
+### 5.2 Recent Failed Logins
+![Failed Login Attempt Tracking](https://github.com/user-attachments/assets/0aea359b-2db9-482e-842f-012d56918ef8)
+
+### 5.3 Currently Active Users
+![Currently Active Users Session Audit](https://github.com/user-attachments/assets/156fb4f6-80db-4dca-a88a-d83049175ec1)
+
+### 5.4 World-Writable Files Discovery
+![World-Writable File System Detection](https://github.com/user-attachments/assets/ccf5905c-ca4e-422b-b80e-eb569fbf48ad)
 ---
 # Author
 
