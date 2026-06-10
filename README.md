@@ -151,6 +151,11 @@ This project was created to improve:
 ### 2.3 Zombie Processes
 ![Zombie Processes Detection](https://github.com/user-attachments/assets/ea105ff4-afe0-463b-ada5-4b36faa565a0)
 
+## 3. Network Connections
+![Network Connections test , Active connection, Network Interface , Routing Table and DNS servers](https://github.com/user-attachments/assets/c9852e49-2d71-4f5d-b1d9-058b3a19c9d2)
+
+## 4.Cleanup Utility
+![Cleanup Utility Preview](https://github.com/user-attachments/assets/3078a4fe-251d-4762-912e-d261e18f62b7)
 
 
 ---
