@@ -140,16 +140,18 @@ This project was created to improve:
 ### 1. Disk Usage Analyzer
 ![Disk Usage Analyzer](https://github.com/user-attachments/assets/9efaad24-0e7a-40bd-8012-f0ca59e4e3b9)
 
-## 1. Process Monitor
+## 2. Process Monitor
 
-### 1.1 Top Memory Consuming Process
+### 2.1 Top Memory Consuming Process
 ![Top Memory Consuming Processes](https://github.com/user-attachments/assets/b8d3e981-8ceb-402d-9fb2-4fbcdd1591e6)
 
-### 1.2 Hung Processes (D State)
+### 2.2 Hung Processes (D State)
 ![Hung Processes Detection](https://github.com/user-attachments/assets/5cea62d3-4aeb-4d5e-859e-558a0fd2c953)
 
-### 1.3 Zombie Processes
+### 2.3 Zombie Processes
 ![Zombie Processes Detection](https://github.com/user-attachments/assets/ea105ff4-afe0-463b-ada5-4b36faa565a0)
+
+
 
 ---
 # Author
