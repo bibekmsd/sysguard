@@ -166,7 +166,7 @@ This project was created to improve:
 ![Failed Login Attempt Tracking](https://github.com/user-attachments/assets/0aea359b-2db9-482e-842f-012d56918ef8)
 
 ### 5.3 Currently Active Users
-![Currently Active Users Session Audit](https://github.com/user-attachments/assets/156fb4f6-80db-4dca-a88a-d83049175ec1)
+![Currently Active Users Session Audit](https://github.com/user-attachments/assets/dd8b8270-f918-4a81-9429-40d138444d0c)
 
 ### 5.4 World-Writable Files Discovery
 ![World-Writable File System Detection](https://github.com/user-attachments/assets/ccf5905c-ca4e-422b-b80e-eb569fbf48ad)
